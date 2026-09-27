@@ -1,0 +1,14 @@
+# Collected data from runs — never commit target loot
+smbforge_*/
+*.jsonl
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Editor/OS cruft
+.vscode/
+.idea/
+*.swp
+.DS_Store
